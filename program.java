@@ -1,2 +1,1 @@
-Sauenkopf
-Dieser Sauenkopf
+Ich habe das Programm geloescht und werde es nun committen
